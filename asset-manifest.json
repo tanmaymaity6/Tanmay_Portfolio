@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Tanmay_Portfolio/static/css/main.5aa19f89.css",
+    "main.js": "/Tanmay_Portfolio/static/js/main.d19f7fb9.js",
+    "static/media/Tanmay_Maity_Resume.pdf": "/Tanmay_Portfolio/static/media/Tanmay_Maity_Resume.5f75708ea39ca15d5a62.pdf",
+    "static/media/speedySocial.png": "/Tanmay_Portfolio/static/media/speedySocial.06a3ef091a29bdf55c1e.png",
+    "static/media/speedyBuy.png": "/Tanmay_Portfolio/static/media/speedyBuy.580efe96c73199a2dc9b.png",
+    "static/media/bookshelf.png": "/Tanmay_Portfolio/static/media/bookshelf.e6efcbc8da81b50fa546.png",
+    "static/media/emailapp-pic.png": "/Tanmay_Portfolio/static/media/emailapp-pic.49dad60d03811f70fac0.png",
+    "static/media/todo-pic.png": "/Tanmay_Portfolio/static/media/todo-pic.d51284db900050d2c1ff.png",
+    "static/media/react.png": "/Tanmay_Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/Tanmay_Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Tanmay_Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Tanmay_Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Tanmay_Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/devv.svg": "/Tanmay_Portfolio/static/media/devv.996eac4b93005e36d4661f096a987377.svg",
+    "static/media/javascript.png": "/Tanmay_Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Tanmay_Portfolio/index.html",
+    "main.5aa19f89.css.map": "/Tanmay_Portfolio/static/css/main.5aa19f89.css.map",
+    "main.d19f7fb9.js.map": "/Tanmay_Portfolio/static/js/main.d19f7fb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aa19f89.css",
+    "static/js/main.d19f7fb9.js"
+  ]
+}
