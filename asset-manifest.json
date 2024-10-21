@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/Tanmay_Portfolio/static/css/main.5aa19f89.css",
-    "main.js": "/Tanmay_Portfolio/static/js/main.d19f7fb9.js",
+    "main.js": "/Tanmay_Portfolio/static/js/main.dfa93357.js",
+    "static/js/787.cf482a7c.chunk.js": "/Tanmay_Portfolio/static/js/787.cf482a7c.chunk.js",
     "static/media/Tanmay_Maity_Resume.pdf": "/Tanmay_Portfolio/static/media/Tanmay_Maity_Resume.5f75708ea39ca15d5a62.pdf",
     "static/media/speedySocial.png": "/Tanmay_Portfolio/static/media/speedySocial.06a3ef091a29bdf55c1e.png",
     "static/media/speedyBuy.png": "/Tanmay_Portfolio/static/media/speedyBuy.580efe96c73199a2dc9b.png",
@@ -17,10 +18,11 @@
     "static/media/javascript.png": "/Tanmay_Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Tanmay_Portfolio/index.html",
     "main.5aa19f89.css.map": "/Tanmay_Portfolio/static/css/main.5aa19f89.css.map",
-    "main.d19f7fb9.js.map": "/Tanmay_Portfolio/static/js/main.d19f7fb9.js.map"
+    "main.dfa93357.js.map": "/Tanmay_Portfolio/static/js/main.dfa93357.js.map",
+    "787.cf482a7c.chunk.js.map": "/Tanmay_Portfolio/static/js/787.cf482a7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5aa19f89.css",
-    "static/js/main.d19f7fb9.js"
+    "static/js/main.dfa93357.js"
   ]
 }
